@@ -65,35 +65,35 @@ section {
 }
 .img {
   position: relative;
-  bottom: 700px;
+  bottom: 800px;
   left: 1000px;
   border-radius: 50px;
 }
 
 .blockpost {
   position: relative;
-  bottom: 800px;
+  bottom: 900px;
   right: 200px;
   border-radius: 100px;
 }
 
 .pk {
   position: relative;
-  bottom: 580px;
+  bottom: 680px;
   right: 560px;
   border-radius: 100px;
 }
 
 .pt {
   position: relative;
-  bottom: 360px;
+  bottom: 460px;
   right: 920px;
   border-radius: 100px;
 }
 
 .rb {
   position: relative;
-  bottom: 140px;
+  bottom: 240px;
   right: 1280px;
   border-radius: 100px;
-}/*# sourceMappingURL=main.css.map */
+}

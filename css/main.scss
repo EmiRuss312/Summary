@@ -25,6 +25,10 @@ h3 {
     color: $primary-color;
 }
 
+h4 {
+    color: $primary-color;
+}
+
 a {
     color: $primary-color;
 }
@@ -34,6 +38,11 @@ section {
 }
 
 .cv {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.game {
     max-width: 900px;
     margin: 0 auto;
 }
@@ -78,7 +87,7 @@ section {
 
 .blockpost {
     position: relative;
-    bottom: 800px;
+    bottom: 1000px;
     right: 200px;
     border-radius: 100px;
 }
